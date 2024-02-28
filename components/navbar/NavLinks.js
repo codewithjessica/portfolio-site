@@ -17,7 +17,7 @@ export default function NavLinks() {
         </StyledNavLink>
         <StyledNavLink>
           <a
-            href="/PhyuPhyu_Toe_Resume.pdf"
+            href="/Jessica_Resume.pdf"
             rel="noreferrer"
             target={"_blank"}
           >

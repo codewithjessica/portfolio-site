@@ -10,7 +10,7 @@ My portfolio built with React, Next.js and Tailwind CSS. It is available in ligh
 
 ```bash
 # clone repo
-git clone https://github.com/phyupt/portfolio-site-main.git
+git clone https://github.com/codewithjessica/portfolio-site-main.git
 
 # changing directory
 cd portfolio-site

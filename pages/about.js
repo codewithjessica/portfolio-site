@@ -15,30 +15,29 @@ export default function About() {
           </p>
           <div className="mt-6 leading-7">
             <p className="mb-6">
-              Hi, I&#39;m Jessica Cheng. I&#39;m a Software Engineer. 
-              I enjoy seeking out creative solutions to complex problems.
-              Fast forward to today, I developed and implemented high-preformance
-              web applications using cutting-edge technologies.
+              Hi, I&#39;m Jessica Cheng. A software developer based in Toronto, Canada. 
+              My enthusiasm lies in devising creative solutions to complex problems. 
+              Fast forward to today, I have developed and implemented high-performance web applications 
+              utilizing cutting-edge technologies.
             </p>
             <p className="mb-6">
-              I love programming because it is so practical, and I can solve
-              real-world challenges with it. For me, programming is a tool to
-              express myself in a creative way. Plus, there is so much to
-              explore that always keeps me excited!
+              I am passionate about programming because it is a very practical skill, 
+              allowing me to solve real-world problems while also serving as a creative outlet. 
+              Plus, there is always something new to explore, which keeps me continually excited!
             </p>
             <p className="mb-6">
-              In my free time, I get inspiration from other people&#39;s work
-              and try out new technologies to build side projects. 
+              During my leisure time, I draw inspiration from others&#39; 
+              work and try out with new technologies to develop side projects.
             </p>
             <p className="mb-6">
-              Feel free to reach out and say hello at:{" "}
+              Please do not hesitate to reach out and say hello at:{" "}
               <a
                 href="mailto:ange.ppt@gmail.com"
                 rel="noreferrer"
                 target="_blank"
                 className="text-green underline font-medium dark:text-mustard"
               >
-                toe.phyuphyu@gmail.com
+                codewithjessica@outlook.com
               </a>
             </p>
           </div>

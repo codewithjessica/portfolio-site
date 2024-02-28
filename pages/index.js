@@ -1,23 +1,23 @@
 import Image from "next/image.js";
 import Link from "next/link.js";
-import sneha from "../public/img/sneha.jpg";
 import Layout from "../components/Layout.js";
-import phyu from "../public/img/Phyu.jpg";
+import Jessica from "../public/img/jessica.jpg";
 
 
 export default function Home() {
   return (
-    <Layout metaTitle="Jessica Cheng: Software Engineer">
+    <Layout metaTitle="Jessica Cheng: software developer">
       <>
         <div className="text-center h-[90vh] flex flex-col items-center justify-center px-5">
-          <div className="h-[150px] w-[150px] mb-6 border-4 border-gray-200 dark:border-gray-700 rounded-full">
+          <div className="h-[250px] w-[250px] mb-6 border-4 border-gray-200 dark:border-gray-700 rounded-full">
             <Image
-              src={phyu}
+              src={Jessica}
               alt="Jessica Cheng"
-              width={150}
-              height={150}
+              width={250}
+              height={250}
               placeholder="blur"
               priority
+              objectFit="cover"
               className="rounded-full"
             />
           </div>
@@ -29,8 +29,7 @@ export default function Home() {
           Jessica Cheng
           </p>
           <p className="md:w-3/4 lg:w-[38rem]">
-          A Software Engineer, self-motivated and
-            love to learn new technologies.
+          A software developer, self-motivated and enthusiastic about learning new technologies.
           </p>
           <div className="sm:flex gap-6 mt-6">
             <Link href="/about">
