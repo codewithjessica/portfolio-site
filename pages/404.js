@@ -3,7 +3,7 @@ import Layout from "../components/Layout.js";
 
 export default function FourZeroFour() {
   return (
-    <Layout metaTitle="Page Not Found - Sneha Ratnani">
+    <Layout metaTitle="Page Not Found - Jessica Cheng">
       <>
         <div className="h-[90vh] text-center px-4 md:px-0 flex flex-col md:flex-row md:text-start items-center justify-center md:space-x-6">
           <div className="space-x-2 pt-6 pb-8 md:space-y-5">

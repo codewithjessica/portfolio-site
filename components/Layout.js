@@ -25,7 +25,7 @@ export default function Layout({ children, metaTitle }) {
           href={`https://sneharatnani.com${router.asPath}`}
         />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Sneha Ratnani" />
+        <meta property="og:site_name" content="Jessica Cheng" />
         <meta
           property="og:description"
           content="I'm a software developer."
