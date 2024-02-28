@@ -19,7 +19,7 @@ export default function NavLinks() {
           <a
             href="/Jessica_Resume.pdf"
             rel="noreferrer"
-            target={"_blank"}
+            target="_blank"
           >
             resume
           </a>
