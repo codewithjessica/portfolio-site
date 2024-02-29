@@ -10,7 +10,7 @@ export default function Logo() {
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <text x="5" y="45" font-size="52" font-family="fantasy">Jessica</text>
+        <text x="5" y="45" fontSize="52" fontFamily="fantasy">Jessica</text>
       </svg>
     </Link>
   );
