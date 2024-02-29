@@ -24,7 +24,7 @@ export default function Navbar() {
                 <NavLinks />
                 {/* Mobile menu button */}
                 <div className="absolute right-0 flex-shrink-0 md:hidden">
-                  <Popover.Button className="bg-gray-100 dark:bg-gray-700 rounded-full h-12 w-12 inline-flex items-center justify-center focus:outline-none hover:ring-2 hover:ring-green dark:ring-white">
+                  <Popover.Button className="bg-gray-100 dark:bg-gray-700 rounded-full h-12 w-12 inline-flex items-center justify-center focus:outline-none hover:ring-2 hover:ring-purple dark:ring-white">
                     {open ? <XIcon /> : <BurgerIcon />}
                   </Popover.Button>
                 </div>

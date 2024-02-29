@@ -12,7 +12,7 @@ export default function Projects() {
       <>
         <section className="w-11/12 mx-auto mt-6 sm:w-3/4 lg:w-11/12 xl:w-3/4 2xl:w-[64rem]">
           <h1 className="capitalize text-4xl font-semibold mb-8 text-center">
-            my <span className="text-green dark:text-mustard">projects</span>
+            my <span className="text-purple dark:text-mustard">projects</span>
           </h1>
           <div className="flex flex-col justify-center items-center">
             {allProjects}

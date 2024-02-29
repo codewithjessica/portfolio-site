@@ -28,7 +28,7 @@ export default function ProjectCard({
           {name}
         </h1>
         <p className=" font-medium text-lg mb-2">
-          <span className="text-green dark:text-mustard">Tech Stack:</span>{" "}
+          <span className="text-purple dark:text-mustard">Tech Stack:</span>{" "}
           {techStack}
         </p>
         <p className="mb-4">{description}</p>

@@ -7,7 +7,7 @@ export default function Mail() {
       className="bg-white dark:bg-gray-600 dark:shadow-gray-900 p-2 rounded-full shadow-xl group"
     >
       <svg
-        className="fill-gray-800 dark:fill-white group-hover:fill-green dark:group-hover:fill-mustard"
+        className="fill-gray-800 dark:fill-white group-hover:fill-purple dark:group-hover:fill-mustard"
         stroke="currentColor"
         strokeWidth="0"
         viewBox="0 0 512 512"

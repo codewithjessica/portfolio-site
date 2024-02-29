@@ -22,20 +22,20 @@ export default function Home() {
             />
           </div>
 
-          <p className="text-[22px] capitalize font-semibold text-green dark:text-mustard">
+          <p className="text-[22px] capitalize font-semibold text-purple dark:text-mustard">
             hey, I&#39;m
           </p>
           <p className="font-semibold text-7xl mb-4 mt-2 capitalize">
           Jessica Cheng
           </p>
           <p className="md:w-3/4 lg:w-[38rem]">
-          A software developer, self-motivated and enthusiastic about learning new technologies.
+          A software developer, self-motivated and passionate about learning new technologies.
           </p>
           <div className="sm:flex gap-6 mt-6">
             <Link href="/about">
               <a
-                className="text-[17px] text-white w-52 rounded-full font-medium block mx-auto py-3 border-2 transition-all duration-200 bg-green border-green
-          hover:text-green hover:bg-transparent dark:border-mustard dark:bg-mustard dark:hover:bg-transparent dark:hover:text-mustard
+                className="text-[17px] text-white w-52 rounded-full font-medium block mx-auto py-3 border-2 transition-all duration-200 bg-purple border-purple
+          hover:text-purple hover:bg-transparent dark:border-mustard dark:bg-mustard dark:hover:bg-transparent dark:hover:text-mustard
           text-center"
               >
                 More About Me

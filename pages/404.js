@@ -20,7 +20,7 @@ export default function FourZeroFour() {
               homepage.
             </p>
             <Link href="/">
-              <a className="rounded-lg bg-green px-4 py-2 text-sm font-medium leading-5 text-white shadow transition-colors duration-150 hover:bg-lime-600 focus:outline-none dark:bg-mustard dark:hover:bg-amber-500">
+              <a className="rounded-lg bg-purple px-4 py-2 text-sm font-medium leading-5 text-white shadow transition-colors duration-150 hover:bg-lime-600 focus:outline-none dark:bg-mustard dark:hover:bg-amber-500">
                 Back to homepage
               </a>
             </Link>

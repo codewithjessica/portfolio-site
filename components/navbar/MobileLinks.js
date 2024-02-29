@@ -5,7 +5,7 @@ export default function MobileLinks({ close }) {
     <>
       <Link href="/">
         <a
-          className="block w-0 px-3 py-2 font-medium hover:text-green dark:hover:text-mustard"
+          className="block w-0 px-3 py-2 font-medium hover:text-purple dark:hover:text-mustard"
           onClick={close}
         >
           Home
@@ -14,7 +14,7 @@ export default function MobileLinks({ close }) {
 
       <Link href="/about">
         <a
-          className="block w-0 px-3 py-2 font-medium hover:text-green dark:hover:text-mustard"
+          className="block w-0 px-3 py-2 font-medium hover:text-purple dark:hover:text-mustard"
           onClick={close}
         >
           About
@@ -23,7 +23,7 @@ export default function MobileLinks({ close }) {
 
       <Link href="/projects">
         <a
-          className="block w-0 px-3 py-2 font-medium hover:text-green dark:hover:text-mustard"
+          className="block w-0 px-3 py-2 font-medium hover:text-purple dark:hover:text-mustard"
           onClick={close}
         >
           Projects
@@ -34,7 +34,7 @@ export default function MobileLinks({ close }) {
         href="/Jessica_Resume.pdf"
         rel="noreferrer"
         target={"_blank"}
-        className="block w-0 px-3 py-2 font-medium hover:text-green dark:hover:text-mustard"
+        className="block w-0 px-3 py-2 font-medium hover:text-purple dark:hover:text-mustard"
         onClick={close}
       >
         Resume

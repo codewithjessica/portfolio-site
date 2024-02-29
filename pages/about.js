@@ -7,7 +7,7 @@ export default function About() {
       <>
         <section className="w-11/12 mx-auto mt-6 mb-12 sm:w-5/6 lg:w-2/3 xl:w-[54rem]">
           <p className="text-center text-4xl font-semibold capitalize">
-            <span className="font-poppins font-medium text-lg uppercase text-green dark:text-mustard">
+            <span className="font-poppins font-medium text-lg uppercase text-purple dark:text-mustard">
               about me
             </span>
             <br />
@@ -35,7 +35,7 @@ export default function About() {
                 href="mailto:ange.ppt@gmail.com"
                 rel="noreferrer"
                 target="_blank"
-                className="text-green underline font-medium dark:text-mustard"
+                className="text-purple underline font-medium dark:text-mustard"
               >
                 codewithjessica@outlook.com
               </a>
